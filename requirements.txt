@@ -1,2 +1,5 @@
 streamlit
 selenium
+pyfiglet
+os
+threading
